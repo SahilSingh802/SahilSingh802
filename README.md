@@ -1,6 +1,6 @@
 ## Hi, 👋
 
-<h1 align="center">Sahil Singh</h1>
+<h1 align="center">Hi, 👋Sahil Singh</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 # 💻 Tech Stack:
