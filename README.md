@@ -30,20 +30,20 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilsingh802&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilsingh802&show_icons=true&theme=dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh802&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh802&theme=dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh802&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh802&layout=compact&theme=dark&cache_seconds=1800" />
 </p>
+
 
 ---
 
