@@ -42,12 +42,14 @@
 
 
 ---
-
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilsingh802&theme=onedark&row=1" />
+  <img src="https://img.shields.io/badge/GitHub-Active%20Developer-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Consistent-orange?style=for-the-badge" />
 </p>
+
 
 ---
 
