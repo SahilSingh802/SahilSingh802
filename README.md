@@ -33,15 +33,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilSingh802&show_icons=true&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilSingh802&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilSingh802&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilSingh802&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSingh802&layout=compact&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSingh802&layout=compact&theme=dark" />
 </p>
 
 
